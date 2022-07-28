@@ -30,8 +30,21 @@ pip install mlxtend\
 pip install pandas-profiling\
 pip install Boruta\
 
-**Python Code Explaination-**\
+### Running the Test
 1. Load all the Necessary libraries, here we'll import pandas as import pandas as pd, import numpy as np and import matplotlib.pyplot as plt.
-2. Then Loading the dataset i.e., leuanalysisNew.csv from the drive. After Loading dataset can be seen through "leuanalysisNewdata.head()".
+2. Then Loading the dataset i.e., leuanalysisNew.csv from the drive. After loading, dataset can be seen through "leuanalysisNewdata.head()".
 3. For identifying the Key Statistics i.e., Mean, Standard Deviation, etcs we can use "describe()".
-4. 
+4. With unique() we can find the unique elements of an array so here we are using it to identify number of classes for REMISS.
+5. Next is to define x and y variable so as to standardize them. Where x is everything except y i.e., y variable contains REMISS and x contains everthing other than REMISS from the dataset. Also converting them into numpy array(numpy()).
+6. Then, Creating Train and Test Datasets and then standardizing them.
+7. from sklearn.preprocessing import StandardScaler is responsible for standardizing the data set and also will be testing. Basically Standardize features by removing the mean and scaling to unit variance.
+8. Standardization of a dataset is a common requirement for many machine learning estimators: they might behave badly if the individual features do not more or less look like standard normally distributed data (e.g. Gaussian with 0 mean and unit variance.
+9. We'll create x_test2 to predict out result.
+10. Multi layer perceptron (MLP) is a supplement of feed forward neural network. MPLClassifier connects to a Neural Network.
+11. Then Hidden layer sizes, maximum iteration, random state,batch size, etc can be set.
+12. Lastly we'll Evaluate Report and Matrix, where printing of Confusion Matrix and Classification Report is done.\
+### Author 
+- Prof. Ade Oridate - [Week6-Data1200-NotesS22
+](https://durhamcollege.desire2learn.com/d2l/le/content/431596/viewContent/5747328/View)
+### Acknowledgements
+- Inspired by Course DATA1200 Introduction To Data Analysis - Predictive Modeling.
