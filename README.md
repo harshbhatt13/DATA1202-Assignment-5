@@ -25,11 +25,11 @@ Python Libraries Install -
 a) Windows PC open the Anaconda Prompt (start menu under Anaconda3(64-bit))\
 b) Mac users launch the Terminal App (open Finder under Applications then go to Utilities folder).
 2) Enter the following commands one at time and wait for each install to complete running.
-pip install plotly\
-pip install imbalanced-learn\
-pip install mlxtend\
-pip install pandas-profiling\
-pip install Boruta
+- pip install plotly
+- pip install imbalanced-learn
+- pip install mlxtend
+- pip install pandas-profiling
+- pip install Boruta
 
 ### Running the Test
 1. Load all the Necessary libraries, here we'll import pandas as import pandas as pd, import numpy as np and import matplotlib.pyplot as plt.
