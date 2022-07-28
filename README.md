@@ -30,3 +30,8 @@ pip install mlxtend\
 pip install pandas-profiling\
 pip install Boruta\
 
+**Python Code Explaination-**\
+1. Load all the Necessary libraries, here we'll import pandas as import pandas as pd, import numpy as np and import matplotlib.pyplot as plt.
+2. Then Loading the dataset i.e., leuanalysisNew.csv from the drive. After Loading dataset can be seen through "leuanalysisNewdata.head()".
+3. For identifying the Key Statistics i.e., Mean, Standard Deviation, etcs we can use "describe()".
+4. 
