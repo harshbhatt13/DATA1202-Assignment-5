@@ -8,4 +8,5 @@ LI – This tells percentage labeling index of the bone marrow leukemia cells
 BLAST – This tells absolute number of blasts in the peripheral blood (BLAST)
 TEMP – This tells highest temperature prior to start of treatment.
 Now according to the above variables we are going to identify whether its Remission or No Remission for Leukemia. 
-REMISS – 1 (Remission) , 0 (No Remission)
+REMISS – 1 (Remission) , 0 (No Remission). 
+
