@@ -28,7 +28,7 @@ pip install plotly\
 pip install imbalanced-learn\
 pip install mlxtend\
 pip install pandas-profiling\
-pip install Boruta\
+pip install Boruta
 
 ### Running the Test
 1. Load all the Necessary libraries, here we'll import pandas as import pandas as pd, import numpy as np and import matplotlib.pyplot as plt.
@@ -42,7 +42,7 @@ pip install Boruta\
 9. We'll create x_test2 to predict out result.
 10. Multi layer perceptron (MLP) is a supplement of feed forward neural network. MPLClassifier connects to a Neural Network.
 11. Then Hidden layer sizes, maximum iteration, random state,batch size, etc can be set.
-12. Lastly we'll Evaluate Report and Matrix, where printing of Confusion Matrix and Classification Report is done.\
+12. Lastly we'll Evaluate Report and Matrix, where printing of Confusion Matrix and Classification Report is done.
 ### Author 
 - Prof. Ade Oridate - [Week6-Data1200-NotesS22
 ](https://durhamcollege.desire2learn.com/d2l/le/content/431596/viewContent/5747328/View)
