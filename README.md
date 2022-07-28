@@ -19,7 +19,7 @@ a) On a Windows PC, from the start menu, select Anaconda3(64-bit), then select A
 Navigator. If Navigator opens, you have successfully installed Anaconda.
 b) On a Mac, open Finder and then Applications. Launch the Anaconda-Navigator.app. If Navigator
 opens, you have successfully installed Anaconda.\
-Python Libraries Install -\
+Python Libraries Install -
 1) Launch Command Prompt
 a) Windows PC open the Anaconda Prompt (start menu under Anaconda3(64-bit))
 b) Mac users launch the Terminal App (open Finder under Applications then go to Utilities folder).
