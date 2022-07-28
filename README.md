@@ -31,7 +31,7 @@ b) Mac users launch the Terminal App (open Finder under Applications then go to 
 - pip install pandas-profiling
 - pip install Boruta
 
-### Running the Test
+### Code Description
 1. Load all the necessary libraries, here we'll import pandas as import pandas as pd, import numpy as np and import matplotlib.pyplot as plt.
 2. Then Loading the dataset i.e., leuanalysisNew.csv from the drive. After loading, dataset can be seen through "leuanalysisNewdata.head()".
 3. For identifying the Key Statistics i.e., Mean, Standard Deviation, etcs we can use "describe()".
