@@ -32,7 +32,7 @@ b) Mac users launch the Terminal App (open Finder under Applications then go to 
 - pip install Boruta
 
 ### Running the Test
-1. Load all the Necessary libraries, here we'll import pandas as import pandas as pd, import numpy as np and import matplotlib.pyplot as plt.
+1. Load all the necessary libraries, here we'll import pandas as import pandas as pd, import numpy as np and import matplotlib.pyplot as plt.
 2. Then Loading the dataset i.e., leuanalysisNew.csv from the drive. After loading, dataset can be seen through "leuanalysisNewdata.head()".
 3. For identifying the Key Statistics i.e., Mean, Standard Deviation, etcs we can use "describe()".
 4. With unique() we can find the unique elements of an array so here we are using it to identify number of classes for REMISS.
