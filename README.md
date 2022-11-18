@@ -1,5 +1,4 @@
-# DATA1202-Assignment-5 - GitHub Repository
-## Neural Networks
+# Neural Networks
 **Description -** In this project we have data that reveals if a person has leukaemia symptoms or not based on 27 tests, with results taking into account 6 different variables. The variable are as follows –
 CELL – This tells the cellularity of the narrow clot section \
 SMEAR – This tells smear differential percentage of blasts \
@@ -44,8 +43,3 @@ b) Mac users launch the Terminal App (open Finder under Applications then go to 
 10. Multi layer perceptron (MLP) is a supplement of feed forward neural network. MPLClassifier connects to a Neural Network.
 11. Then Hidden layer sizes, maximum iteration, random state,batch size, etc can be set.
 12. Lastly we'll Evaluate Report and Matrix, where printing of Confusion Matrix and Classification Report is done.
-### Author 
-- Prof. Ade Oridate - [Week6-Data1200-NotesS22
-](https://durhamcollege.desire2learn.com/d2l/le/content/431596/viewContent/5747328/View)
-### Acknowledgements
-- Inspired by Course DATA1200 Introduction To Data Analysis - Predictive Modeling.
